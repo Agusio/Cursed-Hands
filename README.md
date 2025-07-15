@@ -32,4 +32,4 @@ A 3D puzzle game developed in Unity as an academic project. Features include the
 
 ## Credits
 
-Created by Agustín Castellanos and github.com/Gennyp as an academic project for Escuela Da Vinci.
+Created by Agustin Castellanos and github.com/Gennyp as an academic project for Escuela Da Vinci.
