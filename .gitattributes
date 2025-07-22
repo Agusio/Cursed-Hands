@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Assets/DownloadAssets/** linguist-vendored
+Packages/** linguist-generated
+Assets/LowPolyDungeonsLite/** linguist-vendored
+Assets/TextMeshPro/** linguist-generated
