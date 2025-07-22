@@ -1,6 +1,6 @@
 # Cursed Hands
 
-A 3D puzzle game developed in Unity as an academic project. Features include the use of design patterns and custom level design.
+A 3D card game game developed in Unity as an academic project. Features include the use of design patterns and custom level design.
 
 ## Features
 
@@ -10,8 +10,6 @@ A 3D puzzle game developed in Unity as an academic project. Features include the
   - Factory - Object pool
   - MVC
 - Custom level design
-- Player movement and camera controls
-- Unity UI menus and transitions
 
 ## How to Run
 
@@ -25,7 +23,7 @@ A 3D puzzle game developed in Unity as an academic project. Features include the
     Assets/Scenes/MainMenu.unity
     ```
 
-## Technologies Used
+## Tech Stack
 
 - Unity (version 2022.3.5f1)
 - C#
